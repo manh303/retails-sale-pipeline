@@ -1,0 +1,10 @@
+# Ignore log files
+logs/
+*.log
+
+# Ignore temporary files
+*.tmp
+*.pdf
+
+# Ignore Airflow DAG processor logs
+logs/scheduler/latest

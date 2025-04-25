@@ -1,0 +1,9 @@
+site_name: Retail Sales Pipeline Documentation
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Setup: setup.md
+  - Architecture: architecture.md
+  - Troubleshooting: troubleshooting.md
+  - Deployment: deployment.md
